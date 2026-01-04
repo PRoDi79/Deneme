@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1,IBB Kamera 2
+http://ibb-media4.ibb.gov.tr:1935/live/2.stream/chunklist.m3u8
+#EXTINF:-1,IBB Kamera 20
+http://ibb-media4.ibb.gov.tr:1935/live/20.stream/chunklist.m3u8
+#EXTINF:-1,IBB Kamera 22
+http://ibb-media4.ibb.gov.tr:1935/live/22.stream/chunklist.m3u8
+#EXTINF:-1,IBB Kamera 35
+http://ibb-media4.ibb.gov.tr:1935/live/35.stream/chunklist.m3u8
+#EXTINF:-1,IBB Kamera 45
+http://ibb-media4.ibb.gov.tr:1935/live/45.stream/chunklist.m3u8
+#EXTINF:-1,IBB Kamera 55
+http://ibb-media4.ibb.gov.tr:1935/live/55.stream/chunklist.m3u8
+#EXTINF:-1,IBB Kamera 60
+http://ibb-media4.ibb.gov.tr:1935/live/60.stream/chunklist.m3u8
+#EXTINF:-1,IBB Kamera 100
+http://ibb-media4.ibb.gov.tr:1935/live/100.stream/chunklist.m3u8
+#EXTINF:-1,IBB Kamera 103
+http://ibb-media4.ibb.gov.tr:1935/live/103.stream/chunklist.m3u8
+#EXTINF:-1,IBB Kamera 108
+http://ibb-media4.ibb.gov.tr:1935/live/108.stream/chunklist.m3u8
+#EXTINF:-1,IBB Kamera 110
+http://ibb-media4.ibb.gov.tr:1935/live/110.stream/chunklist.m3u8
+#EXTINF:-1,IBB Kamera 113
+http://ibb-media4.ibb.gov.tr:1935/live/113.stream/chunklist.m3u8
+#EXTINF:-1,IBB Kamera 118
+http://ibb-media4.ibb.gov.tr:1935/live/118.stream/chunklist.m3u8
+#EXTINF:-1,IBB Kamera 122
+http://ibb-media4.ibb.gov.tr:1935/live/122.stream/chunklist.m3u8
+#EXTINF:-1,IBB Kamera 123
+http://ibb-media4.ibb.gov.tr:1935/live/123.stream/chunklist.m3u8
+#EXTINF:-1,IBB Kamera 137
+http://ibb-media4.ibb.gov.tr:1935/live/137.stream/chunklist.m3u8
+#EXTINF:-1,IBB Kamera 139
+http://ibb-media4.ibb.gov.tr:1935/live/139.stream/chunklist.m3u8
+#EXTINF:-1,IBB Kamera 141
+http://ibb-media4.ibb.gov.tr:1935/live/141.stream/chunklist.m3u8
+#EXTINF:-1,IBB Kamera 143
+http://ibb-media4.ibb.gov.tr:1935/live/143.stream/chunklist.m3u8
+#EXTINF:-1,IBB Kamera 144
+http://ibb-media4.ibb.gov.tr:1935/live/144.stream/chunklist.m3u8
+#EXTINF:-1,IBB Kamera 147
+http://ibb-media4.ibb.gov.tr:1935/live/147.stream/chunklist.m3u8
+#EXTINF:-1,IBB Kamera 150
+http://ibb-media4.ibb.gov.tr:1935/live/150.stream/chunklist.m3u8
+#EXTINF:-1,IBB Kamera 216
+http://ibb-media4.ibb.gov.tr:1935/live/216.stream/chunklist.m3u8
+#EXTINF:-1,IBB Kamera 223
+http://ibb-media4.ibb.gov.tr:1935/live/223.stream/chunklist.m3u8
+#EXTINF:-1,IBB Kamera 264
+http://ibb-media4.ibb.gov.tr:1935/live/264.stream/chunklist.m3u8
+#EXTINF:-1,IBB Kamera 293
+http://ibb-media4.ibb.gov.tr:1935/live/293.stream/chunklist.m3u8
+#EXTINF:-1,IBB Kamera 361
+http://ibb-media4.ibb.gov.tr:1935/live/361.stream/chunklist.m3u8
+#EXTINF:-1,IBB Kamera 381
+http://ibb-media4.ibb.gov.tr:1935/live/381.stream/chunklist.m3u8
+#EXTINF:-1,IBB Kamera 394
+http://ibb-media4.ibb.gov.tr:1935/live/394.stream/chunklist.m3u8
+#EXTINF:-1,IBB Kamera 401
+http://ibb-media4.ibb.gov.tr:1935/live/401.stream/chunklist.m3u8
+#EXTINF:-1,IBB Kamera 402
+http://ibb-media4.ibb.gov.tr:1935/live/402.stream/chunklist.m3u8
+#EXTINF:-1,IBB Kamera 416
+http://ibb-media4.ibb.gov.tr:1935/live/416.stream/chunklist.m3u8
+#EXTINF:-1,IBB Kamera 448
+http://ibb-media4.ibb.gov.tr:1935/live/448.stream/chunklist.m3u8
+#EXTINF:-1,IBB Kamera 449
+http://ibb-media4.ibb.gov.tr:1935/live/449.stream/chunklist.m3u8
+#EXTINF:-1,IBB Kamera 457
+http://ibb-media4.ibb.gov.tr:1935/live/457.stream/chunklist.m3u8
+#EXTINF:-1,IBB Kamera 460
+http://ibb-media4.ibb.gov.tr:1935/live/460.stream/chunklist.m3u8
+#EXTINF:-1,IBB Kamera 471
+http://ibb-media4.ibb.gov.tr:1935/live/471.stream/chunklist.m3u8
+#EXTINF:-1,IBB Kamera 481
+http://ibb-media4.ibb.gov.tr:1935/live/481.stream/chunklist.m3u8
