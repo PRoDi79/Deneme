@@ -1,9 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Anadolu Hisarı" group-title="Webcams",Anadolu Hisarı
 https://livestream.ibb.gov.tr/cam_turistik/b_anadoluhisari.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Beyazıt Kule1" group-title="Webcams",Beyazıt Kule1
-https://livestream.ibb.gov.tr/cam_turistik/b_beyazitkule.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Göksu Travertenleri" group-title="Webcams",Göksu Travertenleri (YouTube)
-https://youtu.be/qgz5F2ijnGg
