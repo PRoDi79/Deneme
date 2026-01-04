@@ -2,5 +2,6 @@
 #EXTINF:-1 tvg-name="Anadolu Hisarı" group-title="Webcams",Anadolu Hisarı
 https://livestream.ibb.gov.tr/cam_turistik/b_anadoluhisari.stream/playlist.m3u8
 #EXTM3U
-#EXTINF:-1,Beyazit Meydani
+#EXTINF:-1 tvg-name="Beyazit Meydani" group-title="Webcams",Beyazit Meydani
 https://livestream.ibb.gov.tr/cam_turistik/b_beyazitmeydani.stream/index.m3u8
+
