@@ -1,0 +1,311 @@
+#EXTM3U
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" 
+
+
+
+
+#####################################  ULUSAL KANALLAR   ###############
+
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",TRT 1
+https://tv-trt1.medya.trt.com.tr/master_1080.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",TRT TÜRK
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",TRT GENÇ
+https://tv-trtgenc.medya.trt.com.tr/master.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Star Tv
+http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8?checkedby:MyWay
+http://162.212.179.34/trn09/gin-startv/tracks-v1a1/mono.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Euro Star
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Kanal D
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8?checkedby:MyWay
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_720p.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Euro D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Now Tv
+https://dsmartgo-live.ercdn.net/dsmartgo/foxtv/foxtv.isml/foxtv-audio_tur=96000-video=3000000.m3u8?bitrate=(1800k|3600k)&?checkedby:MyWay
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_360p.m3u8?checkedby:MyWay
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8?checkedby:MyWay
+http://95.174.71.114:80/TR-FOX/index.m3u8?checkedby:MyWay
+http://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8?tv=1?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",KuzeyMax
+http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Show Tv
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8?checkedby:MyWay
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Show Turk
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Show Max
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Tv 8
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=7uwoyq6usvp2&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=2?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Tv 8,5
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_480p.m3u8?&sid=7tra76g4cefx&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Neo Tv
+
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Beyaz Tv
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",360
+https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Teve 2
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Kanal 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Kanal 7 Europa
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",A2
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_720p.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",TYT TV
+https://cdn-tytturk.yayin.com.tr/tytturk/tracks-v1a1/mono.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Ekol Tv
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv_720p.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Ton Tv
+https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",ONS TV
+https://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",CNBC-E
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",TABİİ TV
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Bizimev
+
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",Bir tv
+
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Ulusal",AS TV
+
+
+
+#####################HABER KANALLARI###################
+
+#EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="" group-title="⚡️Haber",Sözcü
+http://87.121.104.29:145/sozcu/stream.m3u8?checkedby:MyWay
+http://65.108.239.207/sozcutv/tracks-v1a1/mono.ts.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="" group-title="⚡️Haber",Halk TV 
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-id="KRTTV.tr" tvg-logo="" group-title="⚡️Haber",KRT TV  
+https://trn03.tulix.tv/gt-krt--tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Tele1.tr" tvg-logo="" group-title="⚡️Haber",Tele 1
+https://tele1-live.ercdn.net/tele1/tele1.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-id="TRT Haber.tr" tvg-logo="" group-title="⚡️Haber",TRT Haber 
+https://tv-trthaber.medya.trt.com.tr/master_1440.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-id="⚡️HaberturkTV.tr" tvg-logo="" group-title="⚡️Haber",Habertürk 
+http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
+#EXTINF:-1 tvg-id="TV100.tr" tvg-logo="" group-title="⚡️Haber",TV 100
+https://tv100-live.daioncdn.net/tv100/tv100.m3u8?app=web?checkedby:MyWay
+#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-logo="" group-title="⚡️Haber",Ulke TV
+https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="" group-title="⚡️Haber",NTV 
+https://cdn.jsdelivr.net/gh/ipstreet312/freeiptv@master/ressources/tur/ntv.m3u8
+#EXTINF:-1 tvg-id="24TV.tr" group-title="⚡️Haber" ,24 TV
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-id="TVNET.tr" tvg-logo="" group-title="⚡️Haber",CNN TURK
+http://104.238.23.182/yt1/cnn.m3u8
+http://65.108.239.207:80/cnn/tracks-v1a1/mono.ts.m3u8
+^#EXTINF:-1 tvg-id="BenguturkTV.tr" tvg-logo="" group-title="⚡️Haber",Haber Global
+https://trn03.tulix.tv/gt-haber-globaltv/tracks-v1a1/mono.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-logo="" group-title="⚡️Haber",Bloomberg HT
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/bloomberght/bloomberght.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-logo="" group-title="⚡️Haber",A Haber
+http://87.121.104.29:145/ahberyt/stream.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="" group-title="⚡️Haber",TGRT Haber
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-id="MeltemTV.tr" tvg-logo="" group-title="⚡️Haber",Meltem TV
+https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-name="Flash ⚡️Haber" http-referrer="" http-user-agent="" group-title="⚡️Haber",Flash Haber
+https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-name="Flash ⚡️Haber" http-referrer="" http-user-agent="" group-title="⚡️Haber",Tv Net
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-id="GZT" tvg-logo="" group-title="⚡️Haber",GZTHaber
+https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-id="BENGÜ TÜRK" tvg-logo="" group-title="⚡️Haber",BENGÜ TÜRK
+https://tv.ensonhaber.com/benguturk/benguturk.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="⚡️Haber",TBMM
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="" group-title="⚡️Haber",İlke Tv
+https://stream.ilketv.com.tr/hls/ilkecanli.m3u8?checkedby:MyWay
+
+
+#############################################ÇİZGİ FİLM############################
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Cizgi Film",Duck Tv
+https://d2lqf4qmkxuiyv.cloudfront.net/DuckTVHDSAMS/DuckTVHDSAMS_720p_AAC.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Cizgi Film",Disney Jr. TR
+https://saran-live.ercdn.net/disneyjunior/index.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Cizgi Film",MINIKA GO
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Cizgi Film",MINIKA ÇOCUK
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Cizgi Film",Baby tv
+https://saran-live.ercdn.net/babytv/index.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Cizgi Film",TRT ÇOCUK
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Cizgi Film",DIYANET ÇOCUK
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Cizgi Film",Niloya
+
+#############################################################################################
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡2025 Filmler",Five Nights at Freddy's 2 (2025)
+
+#############################BELGESEL KANALLARI###################################
+
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Belgesel", NatureTime Belgesel
+http://104.238.23.182/yt1/naturel.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Belgesel",Antik Mısır
+http://104.238.23.182/yt1/misir.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Belgesel",Gez Dolaş Avrupa
+http://104.238.23.182/yt1/gdavrupa.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Belgesel",Gez Dolaş TÜRKİYE
+http://104.238.23.182/yt1/gdtr.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Belgesel",TLC
+https://trn03.tulix.tv/gt-tlc-tv/index.m3u8
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Belgesel",TLC Suc
+http://104.238.23.182/yt1/tlcs.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Belgesel",TRT Belgesel 
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Belgesel",TGRT Belgesel
+https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Belgesel",NAT GEO
+https://saran-live.ercdn.net/natgeohd/index.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Belgesel",NAT GEO WILD
+https://saran-live.ercdn.net/natgeowild/index.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Belgesel",BBC
+http://65.108.239.207/bbc/tracks-v1a1/mono.ts.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Belgesel",Discovery
+http://65.108.239.207:80/discovery/index.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Belgesel",Love Nature
+http://65.108.239.207/lovenature/tracks-v1a1/mono.ts.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Belgesel",ID
+http://65.108.239.207/discs/tracks-v1a1/mono.ts.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Belgesel",Docu Screen
+http://65.108.239.207/docubox/tracks-v1a1/mono.ts.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Belgesel",TLC
+https://trn03.tulix.tv/gt-tlc-tv/index.m3u8?checkedby:MyWay
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Belgesel",Çifci Tv
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Belgesel",Dmax
+https://trn03.tulix.tv/gt-dmax-tv/index.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Belgesel",VİZON WILD
+https://tv191.radyotelekom.com.tr:3835/stream/play.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Belgesel",NATURE TIME
+https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Belgesel",CGTN Belgesel
+https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8?checkedby:MyWay
+
+
+
+
+##############################tco sinema###########################
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Pofidix Sinema
+http://5.178.103.239:82/d/live/out.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Pofidix Sinema 2
+
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Pofidix Sinema 3
+
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Boncuk Tv
+http://104.238.23.221:82/boncuktv/Depo/live/out.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",CİNE 6 MAX 
+https://cinemax6.cinemax6.com:3118/stream/play.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",beIN Box 1
+http://65.108.239.207/box1/tracks-v1a1/mono.ts.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",beIN Box 2
+http://65.108.239.207/box2/tracks-v1a1/mono.ts.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",beIN Box 3
+http://65.108.239.207/box3/tracks-v1a1/mono.ts.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",beIN Movies Actions
+http://65.108.239.207/bsaction1/tracks-v1a1/mono.ts.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",beIN Movies Family
+http://65.108.239.207/bsfamily/tracks-v1a1/mono.ts.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",beIN Movies Premiere
+http://65.108.239.207/bspremier1/tracks-v1a1/mono.ts.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",beIN Movies Stars
+http://65.108.239.207/bsstars/tracks-v1a1/mono.ts.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Sinema
+http://65.108.239.207:80/sinema/index.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Sinema 2
+http://65.108.239.207:80/sinema2/index.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Sinema Aksiyon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvheryerde.com
+https://ds.ayakkabiparti.lol/sinemaaksiyon/tracks-v1a1/mono.ts.m3u8?tms=1761831684&token=dAM8Vr9mi-oo8p0AMACm9Q?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Sinema Aksiyon 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvheryerde.com
+https://ds.ayakkabiparti.lol/sinemaaksiyon2/tracks-v1a1/mono.ts.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Sinema Aile
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvheryerde.com
+https://stream.tecostream.xyz/Sinema_Aile.php?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Sinema 1001
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvheryerde.com
+https://stream.tecostream.xyz/Sinema_1001.php?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Sinema 1002
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvheryerde.com
+https://ds.ayakkabiparti.lol/sinema1002/tracks-v1a1/mono.ts.m3u8?tms=1761831684&token=dAM8Vr9mi-oo8p0AMACm9Q?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Sinema Komedi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvheryerde.com
+https://ds.ayakkabiparti.lol/sinemakomedi/tracks-v1a1/mono.ts.m3u8?tms=1761831684&token=dAM8Vr9mi-oo8p0AMACm9Q?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Tele On
+
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",FX
+https://saran-live.ercdn.net/fx/index.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Life Tv
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",SDM
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Deniz Postası
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Tivi 6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Cine 1
+https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Play Tv
+https://ip100.radyotelekomtv.com:3784/stream/play.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",TV B
+https://ip44.radyotelekomtv.com:3958/stream/play.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Yansıma Sinema
+https://cdn4.yayin.com.tr/yansimasinematv/video.m3u8?checkedby:MyWay
+http://208.79.153.42/akamaissh101/ssh101/ysmtvmedya/chunks.m3u8?checkedby:MyWay
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",SuperTurk TV
+http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8?checkedby:MyWay
+
+
+#################################YEŞİLCAM FİLM#######################
+
+
+
+
+
+#################################YEŞİLCAM FİLM#######################
+
+#EXTINF:-1 group-title="⚡7/24 Yerli Film",Zeki Metin Filmleri
+http://104.238.23.182/yt1/zm.m3u8
+#EXTINF:-1 group-title="⚡7/24 Yerli Film",Yesilcam 
+http://162.212.179.33/gin-trn09/gt-yesilcam-tv1/tracks-v1a1/mono.m3u8?checkedby:MyWay
+#EXTINF:-1 group-title="⚡7/24 Yerli Film",MoviesSmart Turk
+http://65.108.239.207/mvturk/tracks-v1a1/mono.ts.m3u8?checkedby:MyWay
+#EXTINF:-1 group-title="⚡7/24 Yerli Film",beIN Movies Turk
+http://65.108.239.207/bsturk/tracks-v1a1/mono.ts.m3u8?checkedby:MyWay
+#EXTINF:-1 group-title="⚡7/24 Yerli Film",Sinemax Türk
+http://162.212.179.33/gin-trn09/gt-sinevizyon-1/playlist.m3u8?checkedby:MyWay
+#EXTINF:-1 group-title="⚡7/24 Yerli Film",Arzu Film
+http://104.238.23.182/yt1/kms.m3u8
+#EXTINF:-1 group-title="⚡7/24 Yerli Film",Film Atölyesi
+http://104.238.23.182/yt1/kms1.m3u8
+#EXTINF:-1 group-title="⚡7/24 Yerli Film",Kemal Sunal
+http://104.238.23.182/yt1/kms2.m3u8
+#EXTINF:-1 group-title="⚡7/24 Yerli Film",Gulsah Film
+http://104.238.23.182/yt1/kms3.m3u8
+#EXTINF:-1 group-title="⚡7/24 Yerli Film",Rize Türk TV
+https://yayin.rizeturk.com:3777/hybrid/play.m3u8?checkedby:MyWay
+#EXTINF:-1 group-title="⚡7/24 Yerli Film",isviçre Tv
+https://i41.ozelip.com:3269/hybrid/play.m3u8?checkedby:MyWay
+#EXTINF:-1 group-title="⚡7/24 Yerli Film",Tv 4
