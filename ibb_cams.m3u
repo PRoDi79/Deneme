@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,ANTALYA-KAŞ
-https://cdn-ipkamera.yayin.com.tr/korsankalkan/korsanmeze/playlist.m3u8?anahtar=dxkuP_f6yeJkRJmhln1tWw&sure=1770989290&ip=188.119.23.164
-
 #EXTINF:-1,AKOM
 http://ibb-media4.ibb.gov.tr:1935/live/2.stream/chunklist.m3u8
 
@@ -482,6 +479,7 @@ http://ibb-media4.ibb.gov.tr:1935/live/1030.stream/chunklist.m3u8
 
 #EXTINF:-1,Bilinmeyen Kamera (1033)
 http://ibb-media4.ibb.gov.tr:1935/live/1033.stream/chunklist.m3u8
+
 
 
 
