@@ -1,51 +1,37 @@
 #EXTM3U
-#EXTINF:-1,Anadolu Hisarı (Proxy)
-https://ibb-proxy.apkdepomuz.workers.dev/cam_turistik/b_anadoluhisari.stream/index.m3u8
-#EXTINF:-1,Beyazıt Kulesi 1 (Proxy)
-https://ibb-proxy.apkdepomuz.workers.dev/cam_turistik/b_beyazitkule.stream/index.m3u8
-#EXTINF:-1,Beyazıt Kulesi 2 (Proxy)
-https://ibb-proxy.apkdepomuz.workers.dev/cam_turistik/b_beyazitkule2.stream/index.m3u8
-#EXTINF:-1,Beyazıt Meydanı (Proxy)
-https://ibb-proxy.apkdepomuz.workers.dev/cam_turistik/b_beyazitmeydani.stream/index.m3u8
-#EXTINF:-1,Büyük Çamlıca (Proxy)
-https://ibb-proxy.apkdepomuz.workers.dev/cam_turistik/b_buyukcaml%C4%B1ca.stream/index.m3u8
-#EXTINF:-1,Dragos (Proxy)
-https://ibb-proxy.apkdepomuz.workers.dev/cam_turistik/b_dragos.stream/index.m3u8
-#EXTINF:-1,Eminönü (Proxy)
-https://ibb-proxy.apkdepomuz.workers.dev/cam_turistik/b_eminonu.stream/index.m3u8
-#EXTINF:-1,Emirgan (Proxy)
-https://ibb-proxy.apkdepomuz.workers.dev/cam_turistik/b_emirgan.stream/index.m3u8
-#EXTINF:-1,Eyüp Sultan (Proxy)
-https://ibb-proxy.apkdepomuz.workers.dev/cam_turistik/b_eyupsultan.stream/index.m3u8
-#EXTINF:-1,Hidiv Kasrı (Proxy)
-https://ibb-proxy.apkdepomuz.workers.dev/cam_turistik/b_hidivkasri.stream/index.m3u8
-#EXTINF:-1,Kadıköy (Proxy)
-https://ibb-proxy.apkdepomuz.workers.dev/cam_turistik/b_kadikoy.stream/index.m3u8
-#EXTINF:-1,Kapalı Çarşı (Proxy)
-https://ibb-proxy.apkdepomuz.workers.dev/cam_turistik/b_kapalicarsi.stream/index.m3u8
-#EXTINF:-1,Kız Kulesi (Proxy)
-https://ibb-proxy.apkdepomuz.workers.dev/cam_turistik/new_K%C4%B1zkulesi.stream/index.m3u8
-#EXTINF:-1,Küçükçekmece (Proxy)
-https://ibb-proxy.apkdepomuz.workers.dev/cam_turistik/b_kucukcekmece.stream/index.m3u8
-#EXTINF:-1,Metrohan (Proxy)
-https://ibb-proxy.apkdepomuz.workers.dev/cam_turistik/b_metrohan.stream/index.m3u8
-#EXTINF:-1,Ortaköy (Proxy)
-https://ibb-proxy.apkdepomuz.workers.dev/cam_turistik/b_ortakoy.stream/index.m3u8
-#EXTINF:-1,Pierre Loti (Proxy)
-https://ibb-proxy.apkdepomuz.workers.dev/cam_turistik/b_pierreloti.stream/index.m3u8
-#EXTINF:-1,Salacak (Proxy)
-https://ibb-proxy.apkdepomuz.workers.dev/cam_turistik/b_salacak.stream/index.m3u8
-#EXTINF:-1,Saraçhane (Proxy)
-https://ibb-proxy.apkdepomuz.workers.dev/cam_turistik/b_sarachane.stream/index.m3u8
-#EXTINF:-1,Sepetçiler Kasrı (Proxy)
-https://ibb-proxy.apkdepomuz.workers.dev/cam_turistik/b_sepetcilerkasri.stream/index.m3u8
-#EXTINF:-1,Sultanahmet 1 (Proxy)
-https://ibb-proxy.apkdepomuz.workers.dev/cam_turistik/b_sultanahmet.stream/index.m3u8
-#EXTINF:-1,Sultanahmet 2 (Proxy)
-https://ibb-proxy.apkdepomuz.workers.dev/cam_turistik/b_sultanahmet2.stream/index.m3u8
-#EXTINF:-1,Taksim Meydanı (Proxy)
-https://ibb-proxy.apkdepomuz.workers.dev/cam_turistik/b_taksim_meydan.stream/index.m3u8
-#EXTINF:-1,Ulus Parkı (Proxy)
-https://ibb-proxy.apkdepomuz.workers.dev/cam_turistik/b_ulusparki.stream/index.m3u8
-#EXTINF:-1,Üsküdar (Proxy)
-https://ibb-proxy.apkdepomuz.workers.dev/cam_turistik/b_uskudar.stream/index.m3u8
+#EXTINF:-1 tvg-name="ANADOLU HİSARI" tvg-country="TR" group-title="İBB Turistik Kameralar",ANADOLU HİSARI
+https://kamerayayin.ibb.istanbul/turistikcam/anadoluhisari.stream/chunklist_w1877353674.m3u8
+#EXTINF:-1 tvg-name="BEYAZIT KULESİ 2" tvg-country="TR" group-title="İBB Turistik Kameralar",BEYAZIT KULESİ 2
+https://kamerayayin.ibb.istanbul/turistikcam/beyazitkulesi2.stream/chunklist_w15437168.m3u8
+#EXTINF:-1 tvg-name="BEYAZIT MEYDANI" tvg-country="TR" group-title="İBB Turistik Kameralar",BEYAZIT MEYDANI
+https://kamerayayin.ibb.istanbul/turistikcam/beyazitmeydan.stream/chunklist_w1530095445.m3u8
+#EXTINF:-1 tvg-name="BÜYÜK ÇAMLICA" tvg-country="TR" group-title="İBB Turistik Kameralar",BÜYÜK ÇAMLICA
+https://kamerayayin.ibb.istanbul/turistikcam/buyukcamlica.stream/chunklist_w607999958.m3u8
+#EXTINF:-1 tvg-name="DRAGOS" tvg-country="TR" group-title="İBB Turistik Kameralar",DRAGOS
+https://kamerayayin.ibb.istanbul/turistikcam/dragos.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="EMİNÖNÜ" tvg-country="TR" group-title="İBB Turistik Kameralar",EMİNÖNÜ
+https://kamerayayin.ibb.istanbul/turistikcam/eminonu.stream/chunklist_w819635481.m3u8
+#EXTINF:-1 tvg-name="EMİRGAN" tvg-country="TR" group-title="İBB Turistik Kameralar",EMİRGAN
+https://kamerayayin.ibb.istanbul/turistikcam/emirgan.stream/chunklist_w358486726.m3u8
+#EXTINF:-1 tvg-name="EYÜP SULTAN" tvg-country="TR" group-title="İBB Turistik Kameralar",EYÜP SULTAN
+https://kamerayayin.ibb.istanbul/turistikcam/eyupsultan.stream/chunklist_w1374653882.m3u8
+#EXTINF:-1 tvg-name="HİDİV KASRI" tvg-country="TR" group-title="İBB Turistik Kameralar",HİDİV KASRI
+https://kamerayayin.ibb.istanbul/turistikcam/hidivkasri.stream/chunklist_w873286262.m3u8
+#EXTINF:-1 tvg-name="KIZ KULESİ" tvg-country="TR" group-title="İBB Turistik Kameralar",KIZ KULESİ
+https://kamerayayin.ibb.istanbul/turistikcam/kizkulesi.stream/chunklist_w1638219554.m3u8
+#EXTINF:-1 tvg-name="KÜÇÜKÇEKMECE" tvg-country="TR" group-title="İBB Turistik Kameralar",KÜÇÜKÇEKMECE
+https://kamerayayin.ibb.istanbul/turistikcam/kucukcekmece.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="PIERRE LOTI" tvg-country="TR" group-title="İBB Turistik Kameralar",PIERRE LOTI
+https://kamerayayin.ibb.istanbul/turistikcam/pierreloti.stream/chunklist_w615690742.m3u8
+#EXTINF:-1 tvg-name="SALACAK" tvg-country="TR" group-title="İBB Turistik Kameralar",SALACAK
+https://kamerayayin.ibb.istanbul/turistikcam/salacak.stream/chunklist_w108055488.m3u8
+#EXTINF:-1 tvg-name="SARAÇHANE" tvg-country="TR" group-title="İBB Turistik Kameralar",SARAÇHANE
+https://kamerayayin.ibb.istanbul/turistikcam/sarachane.stream/chunklist_w1212513480.m3u8
+#EXTINF:-1 tvg-name="SULTANAHMET 2" tvg-country="TR" group-title="İBB Turistik Kameralar",SULTANAHMET 2
+https://kamerayayin.ibb.istanbul/turistikcam/sultanahmet2.stream/chunklist_w2138675844.m3u8
+#EXTINF:-1 tvg-name="TAKSİM MEYDAN" tvg-country="TR" group-title="İBB Turistik Kameralar",TAKSİM MEYDAN
+https://kamerayayin.ibb.istanbul/turistikcam/taksim.stream/chunklist_w438961806.m3u8
+#EXTINF:-1 tvg-name="ULUS PARKI" tvg-country="TR" group-title="İBB Turistik Kameralar",ULUS PARKI
+https://kamerayayin.ibb.istanbul/turistikcam/ulusparki.stream/chunklist_w103152354.m3u8
+#EXTINF:-1 tvg-name="ÜSKÜDAR" tvg-country="TR" group-title="İBB Turistik Kameralar",ÜSKÜDAR
+https://kamerayayin.ibb.istanbul/turistikcam/uskudar.stream/chunklist_w1741381098.m3u8
